@@ -7,11 +7,7 @@
 
 
 
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/eneller/eneller/main/paypal-donate-button.png)
-]
-(https://www.paypal.com/donate/?hosted_button_id=BLWGFAN5VJSNU)
+[![Donate with PayPal](https://raw.githubusercontent.com/eneller/eneller/main/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=BLWGFAN5VJSNU)
 
 <!-- 
 **eneller/eneller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
