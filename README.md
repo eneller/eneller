@@ -1,6 +1,4 @@
 ### Hey👋
-[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eneller&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
